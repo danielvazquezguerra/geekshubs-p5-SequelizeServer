@@ -1,7 +1,7 @@
 {
   "name": "geekshubs-p5-sequelizeserver",
   "version": "1.0.0",
-  "description": "",
+  "description": "servidor para peliculas",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,6 +19,7 @@
   "dependencies": {
     "cli": "^1.0.1",
     "express-generator": "^4.16.1",
+    "mysql2": "^2.1.0",
     "sequelize": "^5.21.5"
   }
 }
